@@ -11,4 +11,5 @@ int main(){
     int b = 2;
 
     cout << addtwonums(a, b);
+    cout << "yangzhiyong i love you!" << endl;
 }
